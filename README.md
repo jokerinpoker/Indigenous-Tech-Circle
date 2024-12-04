@@ -28,4 +28,5 @@ This project will address these issues by analyzing the procurement landscape an
 ​	•	Utilize data scraping, visualization, normalization, and possibly machine learning (ML) and artificial intelligence (AI) to automate analysis and extract valuable insights
 
 **Deliverables**
+
 For our paper and poster, please find them under **milestone** subfolder. The video trailer link: https://youtu.be/fTyGogAkchk
